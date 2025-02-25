@@ -1,0 +1,4 @@
+Details about new feature is: 
+Face recognisation
+Imporved UI design 
+Added animation to make page attractive 
