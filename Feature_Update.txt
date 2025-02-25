@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Details about the new feature: face recognistion, UI interface, more secured, AI assistant Feature: User Authentication
 Description:
 - Implementing a secure user authentication system.
 - Users will be able to create accounts, log in, and log out.
 - Enhance the app's security and provide personalized experiences.
+=======
+Details about new feature is: 
+Face recognisation
+Imporved UI design 
+Added animation to make page attractive 
+>>>>>>> feature-main
